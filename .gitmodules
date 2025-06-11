@@ -1,0 +1,9 @@
+[submodule "sdk/core"]
+	path = sdk/core
+	url = https://github.com/FedeSobre/VDK-Core
+[submodule "sdk/platform"]
+	path = sdk/platform
+	url = https://github.com/FedeSobre/VDK-Platform-Next
+[submodule "sdk/modules"]
+	path = sdk/modules
+	url = https://github.com/FedeSobre/VDK-Valannia
