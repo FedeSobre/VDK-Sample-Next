@@ -5,7 +5,7 @@
   "scripts": {
     "sdk": "cd sdk && node core/builder/dist/build.js",
 		"sdk:builder": "cd sdk/core/builder && tsc",
-    "dev": "next dev --turbopack",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
